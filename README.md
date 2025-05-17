@@ -14,6 +14,8 @@
 
 1c_linkedlist_iterator o/p link :-(https://github.com/Roshan474/Advanced_java/blob/main/Screenshot%20Linkedlist_Iteration.png)
 
+1c_linkedlist_reverse_iterator o/p link :-(https://github.com/Roshan474/Advanced_java/blob/main/Screenshot%20Linkedlist_reverse_iterator.png)
+
 
 
 
