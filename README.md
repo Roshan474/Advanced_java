@@ -6,4 +6,8 @@
 
 1b_arraylist_colorRemoval o/p link :-(https://github.com/Roshan474/Advanced_java/blob/main/Screenshot%20Arraylist_color_removal.png)
 
+1b_arraylist_colorSort o/p link :-(https://github.com/Roshan474/Advanced_java/blob/main/Screenshot%20Arraylist_colorSort.png)
+
+
+
 
