@@ -10,6 +10,8 @@
 
 1b_arraylist_color_Sublist o/p link :-(https://github.com/Roshan474/Advanced_java/blob/main/Screenshot%20Arraylist_color_sublist.png)
 
+1b_arraylist_Delete_element o/p link :-(https://github.com/Roshan474/Advanced_java/blob/main/Screenshot%20Arraylist_deletenth_element.png)
+
 
 
 
