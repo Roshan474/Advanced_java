@@ -20,6 +20,10 @@
 
 1c_linkedlist_display_with_position o/p link :-(https://github.com/Roshan474/Advanced_java/blob/main/Screenshot%20linkedlist_displaywithposition.png)
 
+1c_linkedlist_swap_element o/p link :-(https://github.com/Roshan474/Advanced_java/blob/main/Screenshot%20linkedlistswap_element.png)
+
+
+
 
 
 
