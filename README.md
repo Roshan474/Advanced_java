@@ -18,6 +18,8 @@
 
 1c_linkedlist_addlast o/p link :-(https://github.com/Roshan474/Advanced_java/blob/main/Screenshot%20linkedlist_addlast.png)
 
+1c_linkedlist_display_with_position o/p link :-(https://github.com/Roshan474/Advanced_java/blob/main/Screenshot%20linkedlist_displaywithposition.png)
+
 
 
 
