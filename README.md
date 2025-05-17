@@ -12,6 +12,9 @@
 
 1b_arraylist_Delete_element o/p link :-(https://github.com/Roshan474/Advanced_java/blob/main/Screenshot%20Arraylist_deletenth_element.png)
 
+1c_linkedlist_iterator o/p link :-(https://github.com/Roshan474/Advanced_java/blob/main/Screenshot%20Linkedlist_Iteration.png)
+
+
 
 
 
