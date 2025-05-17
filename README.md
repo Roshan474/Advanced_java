@@ -22,6 +22,8 @@
 
 1c_linkedlist_swap_element o/p link :-(https://github.com/Roshan474/Advanced_java/blob/main/Screenshot%20linkedlistswap_element.png)
 
+2a_swing_operation o/p link :-(https://github.com/Roshan474/Advanced_java/blob/main/Screenshot%20swing_operation.png)
+
 
 
 
