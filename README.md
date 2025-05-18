@@ -38,11 +38,11 @@
 
 3b_String_String_remove_WhiteSpace o/p link :- (https://github.com/Roshan474/Advanced_java/blob/main/Screenshot%20String_remove_White.png)
 
-3b_String_String_Capitalize_words o/p link :- (https://github.com/Roshan474/Advanced_java/blob/main/Screenshot%20String_capitalize_words.png)
+3c_String_String_Capitalize_words o/p link :- (https://github.com/Roshan474/Advanced_java/blob/main/Screenshot%20String_capitalize_words.png)
 
-3b_String_String_Truncate o/p link :- (https://github.com/Roshan474/Advanced_java/blob/main/Screenshot%20String_truncate.png)
+3c_String_String_Truncate o/p link :- (https://github.com/Roshan474/Advanced_java/blob/main/Screenshot%20String_truncate.png)
 
-3b_String_String_Numeric_Check o/p link :- (https://github.com/Roshan474/Advanced_java/blob/main/Screenshot%20String_Numeric_Check.png)
+3c_String_String_Numeric_Check o/p link :- (https://github.com/Roshan474/Advanced_java/blob/main/Screenshot%20String_Numeric_Check.png)
 
 
 
