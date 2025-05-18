@@ -28,6 +28,8 @@
 
 3a_string_handling o/p link :-(https://github.com/Roshan474/Advanced_java/blob/main/Screenshot%20Strng%20handling.png)
 
+3b_String_Check_Null_or_empty o/p link :- (https://github.com/Roshan474/Advanced_java/blob/main/Screenshot%20String_nullorempty.png)
+
 
 
 
