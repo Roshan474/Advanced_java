@@ -44,6 +44,10 @@
 
 3c_String_String_Numeric_Check o/p link :- (https://github.com/Roshan474/Advanced_java/blob/main/Screenshot%20String_Numeric_Check.png)
 
+3c_String_Strings_RandomString o/p link :- (https://github.com/Roshan474/Advanced_java/blob/main/Screenshot%20Strings_RandomString.png)
+
+3c_String_Strings_Word_Count o/p link :- (https://github.com/Roshan474/Advanced_java/blob/main/Screenshot%20String_Word_count.png)
+
 
 
 
