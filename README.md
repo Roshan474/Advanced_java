@@ -22,9 +22,9 @@
 
 1c_linkedlist_swap_element o/p link :-(https://github.com/Roshan474/Advanced_java/blob/main/Screenshot%20linkedlistswap_element.png)
 
-2a_swing_operation o/p link :-(https://github.com/Roshan474/Advanced_java/blob/main/Screenshot%20swing_operation.png)
+2a_string_operation o/p link :-(https://github.com/Roshan474/Advanced_java/blob/main/Screenshot%20string_operation.png)
 
-2b_swing_performance_test o/p link :-(https://github.com/Roshan474/Advanced_java/blob/main/Screenshot%20swing_performance_test.png)
+2b_string_performance_test o/p link :-(https://github.com/Roshan474/Advanced_java/blob/main/Screenshot%20string_performance_test.png)
 
 3a_string_handling o/p link :-(https://github.com/Roshan474/Advanced_java/blob/main/Screenshot%20Strng%20handling.png)
 
@@ -54,6 +54,9 @@
 
 4c_Swings_Image_Button_example o/p link :- (https://github.com/Roshan474/Advanced_java/blob/main/Screenshot-4c_Swings_ImageButtonExample.png)
 
+5a_Swings_Jlist_Example o/p link :- (https://github.com/Roshan474/Advanced_java/blob/main/Screenshot%20Jlist_example.png)
+
+5b_Swings_Tabbed_pane_Example o/p link :- (https://github.com/Roshan474/Advanced_java/blob/main/Screenshot%20tabbedpane_Example.png)
 
 
 
