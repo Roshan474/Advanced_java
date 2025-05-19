@@ -58,6 +58,9 @@
 
 5b_Swings_Tabbed_pane_Example o/p link :- (https://github.com/Roshan474/Advanced_java/blob/main/Screenshot%20tabbedpane_Example.png)
 
+5c_Swings_Country_CapitalList_Example o/p link :- (https://github.com/Roshan474/Advanced_java/blob/main/Screenshot%20Country_Capitallist.java.png)
+
+5d_Swings_Color_Tabbed_pane_Example o/p link :- (https://github.com/Roshan474/Advanced_java/blob/main/Screenshot%20Color_tabbed_pane.png)
 
 
 
